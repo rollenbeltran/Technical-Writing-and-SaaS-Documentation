@@ -2,7 +2,6 @@
 layout: default
 title: "Technical Writing Portfolio"
 ---
-
 Welcome! I am a **Computer Engineer** specializing in bridging the gap between complex architecture and clear documentation.
 
 ## Featured Samples
